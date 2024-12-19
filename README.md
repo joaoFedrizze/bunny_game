@@ -14,4 +14,4 @@ The most important one is the `bunny.p8` cartridge file, you need to import it i
 
 For now I can't afford the software, so I'm using the [educational version](https://www.pico-8-edu.com/), to import the project just type `LOAD` in the terminal or drag the file onto the screen.
 
-![[bunny.png]]
+![alt text](bunny.png)
